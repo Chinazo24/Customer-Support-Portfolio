@@ -11,7 +11,7 @@ The portfolio showcases:
 ---
 
 ## 🌍 Live Portfolio Link  
-👉 [View My Portfolio](index.html) 
+👉 [View My Portfolio]((https://chinazo24.github.io/customer-support-portfolio/)) 
 
 ---
 
