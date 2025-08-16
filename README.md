@@ -1,6 +1,6 @@
-# Chinazo Barbara Chigere – Chat Support Portfolio
+# Chinazo Barbara Chigere – Customer Support Portfolio
 
-This repository contains my professional portfolio as a **Fully Remote Chat Support Specialist**, designed for recruiters and hiring managers.  
+This repository contains my professional portfolio as a **Customer Support Specialist**, designed for recruiters and hiring managers.  
 
 The portfolio showcases:  
 - 📝 Professional summary highlighting customer service expertise  
@@ -11,13 +11,13 @@ The portfolio showcases:
 ---
 
 ## 🌍 Live Portfolio Link  
-👉 [View My Portfolio](https://chinazo24.github.io/chat-support-portfolio/)  
+👉 [View My Portfolio](https://chinazo24.github.io/customer-support-portfolio/)  
 
 ---
 
 ## 📥 Download My Résumé  
 Click below to download the most recent version of my CV:  
-[📄 Résumé Download](https://github.com/chinazo24/chat-support-portfolio/raw/main/Chinazo_Fully_Remote_Chat_Support_CV.docx)  
+[📄 Résumé Download](https://github.com/chinazo24/customer-support-portfolio/raw/main/Chinazo_Chigere_CS_CV.pdf)  
 
 ---
 
